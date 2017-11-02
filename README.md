@@ -1,4 +1,4 @@
-# Black Style Form MarkdownPad
+# Black Style For MarkdownPad
 
 > Go **`Tools`** → **`Options`** → **`StyleSheets`** → **`Add`** to add custom style.
 
